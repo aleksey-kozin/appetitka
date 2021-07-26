@@ -1,0 +1,23 @@
+{
+  "name": "appetitka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd front && npm i && npm run build",
+    "start": "cd back && npm i && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleksey-kozin/appetitka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aleksey-kozin/appetitka/issues"
+  },
+  "homepage": "https://github.com/aleksey-kozin/appetitka#readme",
+  "engines": {
+    "node" : "16.x"
+  }
+}
